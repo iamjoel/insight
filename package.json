@@ -1,0 +1,25 @@
+{
+    "name": "insight",
+    "private": true,
+    "version": "1.0.0",
+    "description": "我的文章集",
+    "scripts": {
+        "dev": "vuepress dev",
+        "build": "vuepress build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iamjoel/doc.git"
+    },
+    "keywords": [],
+    "author": "Joel",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/iamjoel/doc/issues"
+    },
+    "homepage": "https://github.com/iamjoel/doc#readme",
+    "devDependencies": {
+        "vuepress": "^1.7.1",
+        "vuepress-plugin-mermaidjs": "^1.8.1"
+    }
+}

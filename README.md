@@ -6,3 +6,8 @@
   * [高效法则](content/effective/README.md)
 * 应用
   * [公司运营](content/application/company.md)
+* 读书笔记
+  * 管理
+    * [《卓有成效的管理者》](content/reading-note/management/the-effective-executive.md)
+  * 产品
+    * [《上瘾 - 让用户养成使用习惯的四大产品逻辑》](content/reading-note/product/hooked.md)

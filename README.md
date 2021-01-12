@@ -9,5 +9,6 @@
 * 读书笔记
   * 管理
     * [《卓有成效的管理者》](content/reading-note/management/the-effective-executive.md)
+    * [《OKR 工作法 - 谷歌，领英等顶级公司的高效秘籍》](content/reading-note/management/okr/radical-focus.md)
   * 产品
     * [《上瘾 - 让用户养成使用习惯的四大产品逻辑》](content/reading-note/product/hooked.md)

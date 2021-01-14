@@ -18,6 +18,7 @@
     * [《丰田模式》](content/reading-note/management/toyota-production-system.md)
     * [《善战者说》](content/reading-note/management/good-at-war.md)
     * [《创新公司 - 皮克斯的启示》](content/reading-note/management/creative-inc.md)
+    * [《成就 - 优秀管理者成就自己，卓越管理者成就他人》](content/reading-note/management/achievement.md)
   * 产品
     * [《上瘾 - 让用户养成使用习惯的四大产品逻辑》](content/reading-note/product/hooked.md)
   * 沟通
@@ -25,8 +26,17 @@
     * [《高情商聊天术》](content/reading-note/communicate/high-eq-communicate.md)
   * 财务
     * [《世界上最简单的会计书》](content/reading-note/financial/easy-learn-accounting.md)
+  * 投资
+    * [《指数基金投资指南》](content/reading-note/money/index-fund-guide.md)
+    * [《证券分析》](content/reading-note/money/stock-analyse.md)
+    * [《钱：7步创造终身收入》](content/reading-note/money/money.md)
   * 行业
     * [《SaaS 创业技术图》](content/reading-note/industry/sass-road-map.md)
     * [《14大实体行业深度测评 - 蛋解创业》](content/reading-note/industry/14-industries.md)
   * 小说
     * [《两京十五日》](content/reading-note/novel/two-captials-15-days.md)
+    * [《七种武器》](content/reading-note/novel/seven-weapon.md)
+    * [《围城》](content/reading-note/novel/wall.md)
+  * 政治
+    * [《世界格局》](content/reading-note/politics/world-grid.md)
+    * [《时寒冰说》](content/reading-note/politics/shihanbing-say.md)

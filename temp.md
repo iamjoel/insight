@@ -1,13 +1,18 @@
 # 待整理
+* [管理](content/management/README.md)
 * 读书笔记
   * 本质
     * [《把时间当做朋友》](content/reading-note/core/make-friend-with-time.md)
   * 心灵
     * [《当下的力量》](content/reading-note/heart/the-power-of-now.md)
     * [《正念禅修 - 在喧嚣的世界中获取安宁》](content/reading-note/heart/mindfulness.md)
+    * [《冥想》](content/reading-note/heart/meditation.md)
+  * 健康
+    * [《医学就会》](content/reading-note/health/easy-learn-chinese-medical.md)
   * 管理 & 公司运营
     * [《卓有成效的管理者》](content/reading-note/management/the-effective-executive.md)
     * [《OKR 工作法 - 谷歌，领英等顶级公司的高效秘籍》](content/reading-note/management/okr/radical-focus.md)
+    * [《OKR》](content/reading-note/management/okr/about-ork.md)
     * [《领导阶梯》](content/reading-note/management/leadership-pipeline.md)
     * [《给职业经理人的第一课》](content/reading-note/management/high-output-management.md)
     * [《丰田模式》](content/reading-note/management/toyota-production-system.md)

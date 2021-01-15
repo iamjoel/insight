@@ -19,6 +19,7 @@
     * [《善战者说》](content/reading-note/management/good-at-war.md)
     * [《创新公司 - 皮克斯的启示》](content/reading-note/management/creative-inc.md)
     * [《成就 - 优秀管理者成就自己，卓越管理者成就他人》](content/reading-note/management/achievement.md)
+    * [《赋能 - 打造应对不确定性的敏捷团队》](content/reading-note/management/empower.md)
   * 产品
     * [《上瘾 - 让用户养成使用习惯的四大产品逻辑》](content/reading-note/product/hooked.md)
   * 沟通
@@ -26,6 +27,7 @@
     * [《高情商聊天术》](content/reading-note/communicate/high-eq-communicate.md)
   * 财务
     * [《世界上最简单的会计书》](content/reading-note/financial/easy-learn-accounting.md)
+    * [《财务是个真实的谎言》](content/reading-note/financial/financial-is-lie.md)
   * 投资
     * [《指数基金投资指南》](content/reading-note/money/index-fund-guide.md)
     * [《证券分析》](content/reading-note/money/stock-analyse.md)
@@ -40,3 +42,9 @@
   * 政治
     * [《世界格局》](content/reading-note/politics/world-grid.md)
     * [《时寒冰说》](content/reading-note/politics/shihanbing-say.md)
+
+* [产品](content/application/production/README.md)
+* 编程
+  * [后端](content/coding/backend.md)
+  * [开源代码产品库](content/coding/code-libs.md)
+* [儿童教育](content/children-edu/README.md)

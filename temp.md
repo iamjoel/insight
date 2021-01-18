@@ -1,5 +1,6 @@
 # 待整理
 * [管理](content/management/README.md)
+* [写作](content/write/README.md)
 * 读书笔记
   * 本质
     * [《把时间当做朋友》](content/reading-note/core/make-friend-with-time.md)
@@ -28,6 +29,9 @@
   * 财务
     * [《世界上最简单的会计书》](content/reading-note/financial/easy-learn-accounting.md)
     * [《财务是个真实的谎言》](content/reading-note/financial/financial-is-lie.md)
+    * [《金融街：一个影子私募基金经理的自白》](content/reading-note/financial/privately-offered-fund.md)
+    * [《斯坦福极简经济学》](content/reading-note/financial/stanford-learn-economy.md)
+    * [《500强 CFO笔记》](content/reading-note/financial/cfo-note.md)
   * 投资
     * [《指数基金投资指南》](content/reading-note/money/index-fund-guide.md)
     * [《证券分析》](content/reading-note/money/stock-analyse.md)
@@ -47,4 +51,5 @@
 * 编程
   * [后端](content/coding/backend.md)
   * [开源代码产品库](content/coding/code-libs.md)
+  * [微前端](content/coding/micro-fe.md)
 * [儿童教育](content/children-edu/README.md)

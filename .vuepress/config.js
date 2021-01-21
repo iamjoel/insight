@@ -8,6 +8,15 @@ module.exports = {
             {
                 title: '高效法则',
                 path: '/content/effective/'
+            },
+            {
+                title: '代码',
+                children: [
+                    {
+                        title: '代码质量',
+                        path: '/content/coding/code-quality'
+                    }
+                ]
             }
         ]
     }

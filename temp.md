@@ -1,4 +1,5 @@
 # 待整理
+* [思维](content/core/mind.md)
 * [管理](content/management/README.md)
 * [写作](content/write/README.md)
 * 读书笔记
@@ -48,6 +49,7 @@
     * [《时寒冰说》](content/reading-note/politics/shihanbing-say.md)
 
 * [产品](content/application/production/README.md)
+  * [运营资源](content/application/production/marketing/resource.md)
 * 编程
   * [后端](content/coding/backend.md)
   * [开源代码产品库](content/coding/code-libs.md)

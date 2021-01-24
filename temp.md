@@ -54,6 +54,7 @@
   * [后端](content/coding/backend.md)
   * [开源代码产品库](content/coding/code-libs.md)
   * 前端
-    * [Vue 常见问题及解决方案](content/coding/fe/vue/solution.md)
+    * [Vue 通用问题及解决方案](content/coding/fe/vue/common-solution.md)
+    * [Vue 业务问题及解决方案](content/coding/fe/vue/common-solution.md)
     * [微前端](content/coding/fe/micro-fe.md)
 * [儿童教育](content/children-edu/README.md)

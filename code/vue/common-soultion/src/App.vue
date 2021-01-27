@@ -1,24 +1,30 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/parent-call-child">父组件主动调用子组件的函数</router-link>
     </div>
-    <router-view/>
+    <div id="main">
+      <router-view/>
+    </div>
   </div>
 </template>
 
 <style lang="scss">
+body {
+  margin: 0;
+}
 #app {
+  display: flex;
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
 }
 
 #nav {
   padding: 30px;
+  border-right: 1px solid #42b983;
+  min-height: 100vh;
 
   a {
     font-weight: bold;
@@ -28,5 +34,9 @@
       color: #42b983;
     }
   }
+}
+
+#main {
+  padding: 30px;
 }
 </style>

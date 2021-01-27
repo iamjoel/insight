@@ -13,7 +13,12 @@ const routes: Array<RouteConfig> = [
     path: '/parent-call-child',
     name: 'ParentCallChild',
     component: () => import(/* webpackChunkName: "ParentCallChild" */ '../views/ParentCallChild.vue')
-  }
+  },
+  {
+    path: '/set-style',
+    name: 'SetStyle',
+    component: () => import(/* webpackChunkName: "SetStyle" */ '../views/SetStyle.vue')
+  },
 ]
 
 const router = new VueRouter({

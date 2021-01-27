@@ -1,6 +1,6 @@
 <template>
   <div class="form-input-item">
-    <label class="form-input-item__label">{{name}}</label>
+    <label :class="['form-input-item__label', labelClassName || '']" :style="labelStyle ? labelStyle : {}">{{name}}</label>
     <input type="text" ref="input"/>
   </div>
 </template>
@@ -15,6 +15,8 @@ import { Vue, Component, Prop, Watch} from 'vue-property-decorator'
 export default class FormInputItem extends Vue {
   @Prop() private readonly name!: string;
   @Prop() private readonly controlFocus!: number;
+  @Prop() private readonly labelStyle!: object;
+  @Prop() private readonly labelClassName!: string;
   focus() {
     (this.$refs.input as HTMLInputElement).focus()
   }

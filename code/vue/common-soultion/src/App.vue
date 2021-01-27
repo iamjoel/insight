@@ -3,6 +3,7 @@
     <div id="nav">
       <router-link to="/parent-call-child">父组件主动调用子组件的函数</router-link>
       <router-link to="/set-style">父组件设置子组件样式</router-link>
+      <router-link to="/parent-sub-sub-value">父组件给很深的子组件传值</router-link>
     </div>
     <div id="main">
       <router-view/>

@@ -19,6 +19,11 @@ const routes: Array<RouteConfig> = [
     name: 'SetStyle',
     component: () => import(/* webpackChunkName: "SetStyle" */ '../views/SetStyle.vue')
   },
+  {
+    path: '/parent-sub-sub-value',
+    name: 'ParentSubSubValue',
+    component: () => import(/* webpackChunkName: "ParentSubSubValue" */ '../views/ParentSubSubValue.vue')
+  },
 ]
 
 const router = new VueRouter({

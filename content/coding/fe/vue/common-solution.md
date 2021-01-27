@@ -48,8 +48,14 @@
 
 ## 代码复用
 ### 解决方案1: 继承
+```js
+class A extends B {
+
+}
+```
 
 ### 解决方案2: 组合
-Tabs 下的 Tab。
+<!-- https://github.com/buefy/buefy/blob/dev/src/utils/SlotComponent.js -->
+Tabs 下的 Tab。 父组件 clone 子组件，并动态改属性。
 
 ### 解决方案3: Mixin

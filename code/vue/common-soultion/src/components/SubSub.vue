@@ -1,6 +1,8 @@
 <template>
-  <div>
-    SubSub: {{name}}；{{injectName}}; {{injectNameObj.value}}; {{injectNameObj2.value}}; {{injectArr}}
+  <div class="wrap" @click="onClick">
+    SubSub: {{name}}；{{injectName}}; {{injectNameObj.value}}; {{injectNameObj2.value}}; {{injectArr}} <br>
+
+    高耦合写法：{{$parent.$parent.name.value}}
   </div>
 </template>
 
@@ -15,5 +17,21 @@ export default class SubSub extends Vue {
   @Inject('injectNameObj2') readonly injectNameObj2!: string
   @Inject('injectName') readonly injectName!: string
   @Inject('injectArr') readonly injectArr!: number[]
+  @Inject('injectFn') readonly injectFn!: (name: string) => {}
+
+  onClick() {
+    this.$emit('subClick')
+    if(this.injectFn) {
+      this.injectFn(this.name)
+    }
+  }
 }
 </script>
+
+<style scoped>
+.wrap {
+  padding: 10px;
+  background-color: #0f0;
+  color: #fff;
+}
+</style>

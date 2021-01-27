@@ -1,7 +1,7 @@
 <template>
   <div>
     Sub: 
-    <SubSub :name="name" />
+    <SubSub :name="name" @subClick="$emit('subSubClick')"/>
   </div>
 </template>
 

@@ -1,6 +1,6 @@
 <template>
   <div class="set-style">
-    <Sub :name="name.value"/>
+    <Sub :name="name.value" @subSubClick="onSubSubClick"/>
     <button @click="changeIt">change</button>
   </div>
 </template>
@@ -19,6 +19,7 @@ export default {
       injectArr: this.arr, // 响应
       injectName: this.name.value, // 不响应
       injectNameObj2: nameObj2, // observable 对象也是可响应的。
+      injectFn: this.injectFn // 很深的事件回调
     }
   },
   data() {
@@ -34,6 +35,12 @@ export default {
       this.name.value += '1'
       nameObj2.value += '1'
       this.arr.push(this.arr.length + 1)
+    },
+    onSubSubClick() {
+      console.log('sub sub clicked')
+    },
+    injectFn(name) {
+      console.log(`injectFn: sub sub clicked: ${name}`)
     }
   }
 }

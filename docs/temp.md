@@ -1,5 +1,6 @@
 # 待整理
 * [思维](content/core/mind.md)
+* [对错 - 逻辑 & 感性](content/core/right-wrong.md)
 * [管理](content/management/README.md)
 * [写作](content/write/README.md)
 * 读书笔记

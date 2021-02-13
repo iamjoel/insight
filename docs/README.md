@@ -9,3 +9,5 @@
 * 代码
   * [学新技术的选择和如何学的思考](content/coding/question-learn-tech.md)
   * [代码质量](content/coding/code-quality.md)
+* 理财
+  * [指数基金](content/money/etf.md)

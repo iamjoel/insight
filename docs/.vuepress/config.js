@@ -21,6 +21,15 @@ module.exports = {
                         path: '/content/coding/code-quality'
                     }
                 ]
+            },
+            {
+                title: '理财',
+                children: [
+                    {
+                        title: '指数基金',
+                        path: '/content/money/etf'
+                    }
+                ]
             }
         ]
     }

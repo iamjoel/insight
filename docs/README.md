@@ -10,4 +10,5 @@
   * [学新技术的选择和如何学的思考](content/coding/question-learn-tech.md)
   * [代码质量](content/coding/code-quality.md)
 * 理财
+  * [证券术语](content/money/stock/term.md)
   * [指数基金](content/money/etf.md)
